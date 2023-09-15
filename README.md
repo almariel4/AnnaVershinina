@@ -1,6 +1,6 @@
 # Salut!💃
 
-My name is Anna, and I'm **junior Java Developer**. I have a lot of ideas for pet projects that I will definitely implement! I dream of becoming a **full stack** or **android developer** so I learn new things every day, because the stack is huge, but the interest in the field is **_inexhaustible_**👩‍💻
+My name is Anna, and I'm **junior Java Developer**. I have a lot of ideas for pet projects that I will definitely implement! I dream of becoming a **full stack** or **android developer** so I learn new things every day, because the stack is huge, but the interest in the field is _inexhaustible_👩‍💻
 
 ## Technology stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -9,19 +9,22 @@ My name is Anna, and I'm **junior Java Developer**. I have a lot of ideas for pe
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
+## Databases
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
 ## IDEs/Editors
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
- 
-## OS
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-## Office
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<div style="width: fit-content; background-color: #f0e9e9; padding: 8px">
+𝕀 𝕒𝕞 𝕒 𝕧𝕖𝕣𝕪 𝕔𝕣𝕖𝕒𝕥𝕚𝕧𝕖 𝕡𝕖𝕣𝕤𝕠𝕟<br>
+In my free time I enjoy drawing and interface design.<br>
+I love creating cards and gift wrapping using scrapbooking techniques.
+</div>
 
