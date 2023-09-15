@@ -22,9 +22,12 @@ My name is Anna, and I'm **junior Java Developer**. I have a lot of ideas for pe
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<div style="width: fit-content; background-color: #f0e9e9; padding: 8px">
-𝕀 𝕒𝕞 𝕒 𝕧𝕖𝕣𝕪 𝕔𝕣𝕖𝕒𝕥𝕚𝕧𝕖 𝕡𝕖𝕣𝕤𝕠𝕟<br>
-In my free time I enjoy drawing and interface design.<br>
-I love creating cards and gift wrapping using scrapbooking techniques.
-</div>
+---
+🙃 𝕀 𝕒𝕞 𝕒 𝕧𝕖𝕣𝕪 𝕔𝕣𝕖𝕒𝕥𝕚𝕧𝕖 𝕡𝕖𝕣𝕤𝕠𝕟 🙃
+In my free time I enjoy 
+🎨 drawing
+🖼 interface design
+✂️ creating cards and gift wrapping using scrapbooking techniques.
+📚 reading in French
+
 
