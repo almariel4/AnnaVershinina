@@ -1,6 +1,6 @@
 # Salut!💃
 
-My name is Anna, and I'm **junior Java Developer**. I have a lot of ideas for pet projects that I'm going to implement! I dream of becoming a **full stack** or **android developer** so I learn new things every day, because the stack is huge, but the interest in the field is **inexhaustible**👩‍💻
+My name is Anna, and I'm **junior Java Developer**. I have a lot of ideas for pet projects that I'm going to implement! I dream of becoming a **full stack** or **Android Developer** so I learn new things every day, because the stack is huge, but the interest in the field is **inexhaustible**👩‍💻
 
 ## Technology stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
