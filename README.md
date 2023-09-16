@@ -24,10 +24,11 @@ My name is Anna, and I'm **junior Java Developer**. I have a lot of ideas for pe
 
 ---
 🙃 𝕀 𝕒𝕞 𝕒 𝕧𝕖𝕣𝕪 𝕔𝕣𝕖𝕒𝕥𝕚𝕧𝕖 𝕡𝕖𝕣𝕤𝕠𝕟 🙃
-In my free time I enjoy 
-🎨 drawing
-🖼 interface design
-✂️ creating cards and gift wrapping using scrapbooking techniques.
+
+In my free time I enjoy<br>
+🎨 drawing<br>
+🖼 interface design<br>
+✂️ creating cards and gift wrapping using scrapbooking techniques<br>
 📚 reading in French
 
 
