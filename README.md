@@ -2,6 +2,10 @@
 
 My name is Anna, and I'm **Java and frontend Developer**. I have a lot of ideas for pet projects that I'm going to implement! I dream of becoming a **full stack** or **Android Developer** so I learn new things every day, because the stack is huge, but the interest in the field is **inexhaustible**👩‍💻
 
+## I'm currently working on
+https://github.com/gosn1ck/karyeragame as **frontend**
+
+---
 ## Technology stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -9,10 +13,12 @@ My name is Anna, and I'm **Java and frontend Developer**. I have a lot of ideas 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
+---
 ## Databases
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
+--- 
 ## IDEs/Editors
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
