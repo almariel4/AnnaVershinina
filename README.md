@@ -30,8 +30,9 @@ https://github.com/gosn1ck/karyeragame as **frontend**
 
 ---
 ## Contact me
-📧 **E-mail**     as_vershinina@mail.ru
+📧 **E-mail**     as_vershinina@mail.ru <br>
 💬 **Telegram**   https://t.me/AnnaSVershinina
+
 ---
 🙃 𝕀 𝕒𝕞 𝕒 𝕧𝕖𝕣𝕪 𝕔𝕣𝕖𝕒𝕥𝕚𝕧𝕖 𝕡𝕖𝕣𝕤𝕠𝕟 🙃
 
